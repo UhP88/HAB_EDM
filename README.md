@@ -17,5 +17,5 @@ pyEDM, pandas, numpy, matplotlib, scipy, seaborn
 
 ## Usage
 ```bash
-python pyEDM_RedTide.py
+python pyEDM_CCM-SMap.py
 python pyEDM_Forecast.py
