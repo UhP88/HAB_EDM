@@ -10,6 +10,8 @@ This repository contains the Python code and data used in the paper:
 - `pyEDM_RedTide.py`: pyEDM analysis (CCM, S-map, surrogate tests)
 - `pyEDM_Forecast.py`: pyEDM analysis (Multivariate S-map for prediction)
 - `BD_FITOSenoReloncaviMetriReady.csv`: phytoplankton time-series data
+- `BD_FITOGuaitecasNorteMelinka_18abcReady.csv`: phytoplankton time-series data
+- `BD_FITOQuellon_12aReady.csv`: phytoplankton time-series data
 
 ## Requirements
 Python >= 1.13.1
